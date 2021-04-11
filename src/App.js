@@ -1,5 +1,7 @@
 import logo from './image0.png';
 import './App.css';
+// eslint-disable-next-line
+var ReactCSSTransitionGroup = require('react-transition-group'); // ES5 with npm
 
 function App() {
   return (
@@ -18,7 +20,7 @@ function App() {
           Welcome to Arcano
         </a>
         <a
-          className="App-link"
+          className="App-linkz"
           href="https://cdn.discordapp.com/attachments/726010929476534294/830831855393439814/arcano-qt-windows1.zip"
           target="_blank"
           rel="noopener noreferrer"
