@@ -1,4 +1,4 @@
-import logo from './image0.png';
+import logo from './image2.png';
 import './App.css';
 // eslint-disable-next-line
 var ReactCSSTransitionGroup = require('react-transition-group'); // ES5 with npm
@@ -8,17 +8,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Arcano is <code>in beta </code>phase
-        </p>
-        <a
-          className="App-linkz"
-          href="https://arcano.me"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <em>
+          Arcano is <code>in beta </code>phase . . .
+        </em>
+        <span>   ⠀ ‎‎   </span>
+        <b>
           Welcome to Arcano
-        </a>
+        </b>
+
         <a
           className="App-link"
           href="https://cdn.discordapp.com/attachments/726010929476534294/830831855393439814/arcano-qt-windows1.zip"
