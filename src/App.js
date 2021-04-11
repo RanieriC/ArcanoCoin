@@ -12,7 +12,7 @@ function App() {
           Arcano is <code>in beta </code>phase
         </p>
         <a
-          className="App-link"
+          className="App-linkz"
           href="https://arcano.me"
           target="_blank"
           rel="noopener noreferrer"
@@ -20,7 +20,7 @@ function App() {
           Welcome to Arcano
         </a>
         <a
-          className="App-linkz"
+          className="App-link"
           href="https://cdn.discordapp.com/attachments/726010929476534294/830831855393439814/arcano-qt-windows1.zip"
           target="_blank"
           rel="noopener noreferrer"
