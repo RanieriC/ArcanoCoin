@@ -29,7 +29,15 @@
 }
 
 .App-linkz {
-  color: #efec9f;
+  color: #f3ba2f;
+}
+
+.App-linkd {
+  color: #7289da;
+}
+
+.App-linkr {
+  color: #ff6600;
 }
 
 @keyframes App-logo-spin {
